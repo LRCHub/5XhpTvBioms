@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "last night",
+  "base_artist": "somunia",
+  "createdAt": "2026-02-08T21:24:13.480277Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last Night Lonely",
+      "artist": "Jon Pardi",
+      "has_synced": true,
+      "path": "select/01_Last_Night_Lonely_Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Atlanta Burned Again Last Night",
+      "artist": "Atlanta",
+      "has_synced": false,
+      "path": "select/02_Atlanta_Burned_Again_Last_Night_Atlanta.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drunk Last Night",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/03_Drunk_Last_Night_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "He Broke Your Memory Last Night",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/04_He_Broke_Your_Memory_Last_Night_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "He Broke Your Memory Last Night (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/05_He_Broke_Your_Memory_Last_Night_(Album_Version)_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Fell In Love Again Last Night",
+      "artist": "The Forester Sisters",
+      "has_synced": false,
+      "path": "select/06_I_Fell_In_Love_Again_Last_Night_The_Forester_Sisters.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Out Last Night",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/07_Out_Last_Night_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sounded Good Last Night",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/08_Sounded_Good_Last_Night_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last Night on Earth",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/09_Last_Night_on_Earth_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Where Did You Sleep Last Night",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/10_Where_Did_You_Sleep_Last_Night_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Night",
+      "artist": "Little Walter",
+      "has_synced": true,
+      "path": "select/11_Last_Night_Little_Walter.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Night",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/12_Last_Night_Moby.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Last Night of Winter",
+      "artist": "Mia Doi Todd",
+      "has_synced": false,
+      "path": "select/13_The_Last_Night_of_Winter_Mia_Doi_Todd.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Night Last Night",
+      "artist": "Mark Ronson & The Business Intl feat. Rose Elinor Dougall & Alex Greenwald",
+      "has_synced": true,
+      "path": "select/14_The_Night_Last_Night_Mark_Ronson_&_The_Business_Intl_feat._Rose_Elinor_Dougall_&_Alex_Greenwald.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Night Last Night (Featuring Rose Elinor Dougall, Alex Greenwald)",
+      "artist": "Mark Ronson & The Business Intl.",
+      "has_synced": true,
+      "path": "select/15_The_Night_Last_Night_(Featuring_Rose_Elinor_Dougall,_Alex_Greenwald)_Mark_Ronson_&_The_Business_Intl..lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Last Night",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/16_Last_Night_Eric_Clapton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "last night",
+      "artist": "somunia",
+      "has_synced": false,
+      "path": "select/pl_01_last_night_somunia.txt"
+    }
+  ]
+}
